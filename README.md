@@ -1,4 +1,4 @@
-# MPPT_C_Algorithm
+# MPPT Algorithm
 This is the MPPT algorithm in C language for PIC18 MCU. This is the software part of my graduation project.
 These are the algorithm modules, including:
 - ADC module for sensors reading,
